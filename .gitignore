@@ -3,7 +3,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__
 __openvino_cache__
-*test*
 
 # Jupyter Notebook
 .ipynb_checkpoints
