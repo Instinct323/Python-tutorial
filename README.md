@@ -9,7 +9,7 @@
   - Assignment-2
 - Lesson-6: 6 函数, 7 自定义模块, 8 类和实例
   - Quiz-2
-- Lesson-7: **TODO**
+- Lesson-7: 8 类和实例
   - Assignment-3
 
 习题课主要是对理论课的内容进行补充，理论课中已涉及的部分内容则不会在习题课上再次讲解
