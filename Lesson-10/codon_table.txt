@@ -1,0 +1,9 @@
+CTT L Leu
+ATG M Met
+ACA T Thr
+ACG T Thr
+ATC I Ile
+ATA I Ile
+TGC C Cys
+GTT V Val
+ATT I Ile
