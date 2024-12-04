@@ -1,0 +1,11 @@
+region,product,sales,revenue
+North,Product_A,120,2400
+North,Product_B,200,4000
+South,Product_A,150,3000
+South,Product_C,180,3600
+East,Product_B,100,2000
+East,Product_C,90,1800
+West,Product_A,300,6000
+West,Product_B,250,5000
+North,Product_C,80,1600
+South,Product_B,220,4400
