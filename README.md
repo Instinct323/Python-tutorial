@@ -15,6 +15,12 @@
   - Assignment-4
 - Lesson-9: numpy
   - Assignment-5
+- Lesson-10: pandas
+  - Assignment-6
+- Lesson-11: pandas
+  - Assignment-7
+  - Quiz-3
+- Lesson-12: matplotlib
 
 习题课主要是对理论课的内容进行补充，理论课中已涉及的部分内容则不会在习题课上再次讲解
 

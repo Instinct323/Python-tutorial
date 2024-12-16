@@ -1,0 +1,892 @@
+Survived,Name,Sex
+0,"Braund, Mr. Owen Harris",male
+1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female
+1,"Heikkinen, Miss. Laina",female
+1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female
+0,"Allen, Mr. William Henry",male
+0,"Moran, Mr. James",male
+0,"McCarthy, Mr. Timothy J",male
+0,"Palsson, Master. Gosta Leonard",male
+1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female
+1,"Nasser, Mrs. Nicholas (Adele Achem)",female
+1,"Sandstrom, Miss. Marguerite Rut",female
+1,"Bonnell, Miss. Elizabeth",female
+0,"Saundercock, Mr. William Henry",male
+0,"Andersson, Mr. Anders Johan",male
+0,"Vestrom, Miss. Hulda Amanda Adolfina",female
+1,"Hewlett, Mrs. (Mary D Kingcome) ",female
+0,"Rice, Master. Eugene",male
+1,"Williams, Mr. Charles Eugene",male
+0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female
+1,"Masselmani, Mrs. Fatima",female
+0,"Fynney, Mr. Joseph J",male
+1,"Beesley, Mr. Lawrence",male
+1,"McGowan, Miss. Anna ""Annie""",female
+1,"Sloper, Mr. William Thompson",male
+0,"Palsson, Miss. Torborg Danira",female
+1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female
+0,"Emir, Mr. Farred Chehab",male
+0,"Fortune, Mr. Charles Alexander",male
+1,"O'Dwyer, Miss. Ellen ""Nellie""",female
+0,"Todoroff, Mr. Lalio",male
+0,"Uruchurtu, Don. Manuel E",male
+1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female
+1,"Glynn, Miss. Mary Agatha",female
+0,"Wheadon, Mr. Edward H",male
+0,"Meyer, Mr. Edgar Joseph",male
+0,"Holverson, Mr. Alexander Oskar",male
+1,"Mamee, Mr. Hanna",male
+0,"Cann, Mr. Ernest Charles",male
+0,"Vander Planke, Miss. Augusta Maria",female
+1,"Nicola-Yarred, Miss. Jamila",female
+0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female
+0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female
+0,"Kraeff, Mr. Theodor",male
+1,"Laroche, Miss. Simonne Marie Anne Andree",female
+1,"Devaney, Miss. Margaret Delia",female
+0,"Rogers, Mr. William John",male
+0,"Lennon, Mr. Denis",male
+1,"O'Driscoll, Miss. Bridget",female
+0,"Samaan, Mr. Youssef",male
+0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female
+0,"Panula, Master. Juha Niilo",male
+0,"Nosworthy, Mr. Richard Cater",male
+1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female
+1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female
+0,"Ostby, Mr. Engelhart Cornelius",male
+1,"Woolner, Mr. Hugh",male
+1,"Rugg, Miss. Emily",female
+0,"Novel, Mr. Mansouer",male
+1,"West, Miss. Constance Mirium",female
+0,"Goodwin, Master. William Frederick",male
+0,"Sirayanian, Mr. Orsen",male
+1,"Icard, Miss. Amelie",female
+0,"Harris, Mr. Henry Birkhardt",male
+0,"Skoog, Master. Harald",male
+0,"Stewart, Mr. Albert A",male
+1,"Moubarek, Master. Gerios",male
+1,"Nye, Mrs. (Elizabeth Ramell)",female
+0,"Crease, Mr. Ernest James",male
+1,"Andersson, Miss. Erna Alexandra",female
+0,"Kink, Mr. Vincenz",male
+0,"Jenkin, Mr. Stephen Curnow",male
+0,"Goodwin, Miss. Lillian Amy",female
+0,"Hood, Mr. Ambrose Jr",male
+0,"Chronopoulos, Mr. Apostolos",male
+1,"Bing, Mr. Lee",male
+0,"Moen, Mr. Sigurd Hansen",male
+0,"Staneff, Mr. Ivan",male
+0,"Moutal, Mr. Rahamin Haim",male
+1,"Caldwell, Master. Alden Gates",male
+1,"Dowdell, Miss. Elizabeth",female
+0,"Waelens, Mr. Achille",male
+1,"Sheerlinck, Mr. Jan Baptist",male
+1,"McDermott, Miss. Brigdet Delia",female
+0,"Carrau, Mr. Francisco M",male
+1,"Ilett, Miss. Bertha",female
+1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female
+0,"Ford, Mr. William Neal",male
+0,"Slocovski, Mr. Selman Francis",male
+1,"Fortune, Miss. Mabel Helen",female
+0,"Celotti, Mr. Francesco",male
+0,"Christmann, Mr. Emil",male
+0,"Andreasson, Mr. Paul Edvin",male
+0,"Chaffee, Mr. Herbert Fuller",male
+0,"Dean, Mr. Bertram Frank",male
+0,"Coxon, Mr. Daniel",male
+0,"Shorney, Mr. Charles Joseph",male
+0,"Goldschmidt, Mr. George B",male
+1,"Greenfield, Mr. William Bertram",male
+1,"Doling, Mrs. John T (Ada Julia Bone)",female
+0,"Kantor, Mr. Sinai",male
+0,"Petranec, Miss. Matilda",female
+0,"Petroff, Mr. Pastcho (""Pentcho"")",male
+0,"White, Mr. Richard Frasar",male
+0,"Johansson, Mr. Gustaf Joel",male
+0,"Gustafsson, Mr. Anders Vilhelm",male
+0,"Mionoff, Mr. Stoytcho",male
+1,"Salkjelsvik, Miss. Anna Kristine",female
+1,"Moss, Mr. Albert Johan",male
+0,"Rekic, Mr. Tido",male
+1,"Moran, Miss. Bertha",female
+0,"Porter, Mr. Walter Chamberlain",male
+0,"Zabour, Miss. Hileni",female
+0,"Barton, Mr. David John",male
+0,"Jussila, Miss. Katriina",female
+0,"Attalah, Miss. Malake",female
+0,"Pekoniemi, Mr. Edvard",male
+0,"Connors, Mr. Patrick",male
+0,"Turpin, Mr. William John Robert",male
+0,"Baxter, Mr. Quigg Edmond",male
+0,"Andersson, Miss. Ellis Anna Maria",female
+0,"Hickman, Mr. Stanley George",male
+0,"Moore, Mr. Leonard Charles",male
+0,"Nasser, Mr. Nicholas",male
+1,"Webber, Miss. Susan",female
+0,"White, Mr. Percival Wayland",male
+1,"Nicola-Yarred, Master. Elias",male
+0,"McMahon, Mr. Martin",male
+1,"Madsen, Mr. Fridtjof Arne",male
+1,"Peter, Miss. Anna",female
+0,"Ekstrom, Mr. Johan",male
+0,"Drazenoic, Mr. Jozef",male
+0,"Coelho, Mr. Domingos Fernandeo",male
+0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female
+1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female
+0,"Sobey, Mr. Samuel James Hayden",male
+0,"Richard, Mr. Emile",male
+1,"Newsom, Miss. Helen Monypeny",female
+0,"Futrelle, Mr. Jacques Heath",male
+0,"Osen, Mr. Olaf Elon",male
+0,"Giglio, Mr. Victor",male
+0,"Boulos, Mrs. Joseph (Sultana)",female
+1,"Nysten, Miss. Anna Sofia",female
+1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female
+0,"Burke, Mr. Jeremiah",male
+0,"Andrew, Mr. Edgardo Samuel",male
+0,"Nicholls, Mr. Joseph Charles",male
+1,"Andersson, Mr. August Edvard (""Wennerstrom"")",male
+0,"Ford, Miss. Robina Maggie ""Ruby""",female
+0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male
+0,"Byles, Rev. Thomas Roussel Davids",male
+0,"Bateman, Rev. Robert James",male
+1,"Pears, Mrs. Thomas (Edith Wearne)",female
+0,"Meo, Mr. Alfonzo",male
+0,"van Billiard, Mr. Austin Blyler",male
+0,"Olsen, Mr. Ole Martin",male
+0,"Williams, Mr. Charles Duane",male
+1,"Gilnagh, Miss. Katherine ""Katie""",female
+0,"Corn, Mr. Harry",male
+0,"Smiljanic, Mr. Mile",male
+0,"Sage, Master. Thomas Henry",male
+0,"Cribb, Mr. John Hatfield",male
+1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female
+0,"Bengtsson, Mr. John Viktor",male
+0,"Calic, Mr. Jovo",male
+0,"Panula, Master. Eino Viljami",male
+1,"Goldsmith, Master. Frank John William ""Frankie""",male
+1,"Chibnall, Mrs. (Edith Martha Bowerman)",female
+0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female
+0,"Baumann, Mr. John D",male
+0,"Ling, Mr. Lee",male
+0,"Van der hoef, Mr. Wyckoff",male
+0,"Rice, Master. Arthur",male
+1,"Johnson, Miss. Eleanor Ileen",female
+0,"Sivola, Mr. Antti Wilhelm",male
+0,"Smith, Mr. James Clinch",male
+0,"Klasen, Mr. Klas Albin",male
+0,"Lefebre, Master. Henry Forbes",male
+0,"Isham, Miss. Ann Elizabeth",female
+0,"Hale, Mr. Reginald",male
+0,"Leonard, Mr. Lionel",male
+0,"Sage, Miss. Constance Gladys",female
+0,"Pernot, Mr. Rene",male
+0,"Asplund, Master. Clarence Gustaf Hugo",male
+1,"Becker, Master. Richard F",male
+1,"Kink-Heilmann, Miss. Luise Gretchen",female
+0,"Rood, Mr. Hugh Roscoe",male
+1,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female
+1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male
+0,"Bourke, Mr. John",male
+0,"Turcin, Mr. Stjepan",male
+1,"Pinsky, Mrs. (Rosa)",female
+0,"Carbines, Mr. William",male
+1,"Andersen-Jensen, Miss. Carla Christine Nielsine",female
+1,"Navratil, Master. Michel M",male
+1,"Brown, Mrs. James Joseph (Margaret Tobin)",female
+1,"Lurette, Miss. Elise",female
+0,"Mernagh, Mr. Robert",male
+0,"Olsen, Mr. Karl Siegwart Andreas",male
+1,"Madigan, Miss. Margaret ""Maggie""",female
+0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female
+0,"Vande Walle, Mr. Nestor Cyriel",male
+0,"Sage, Mr. Frederick",male
+0,"Johanson, Mr. Jakob Alfred",male
+0,"Youseff, Mr. Gerious",male
+1,"Cohen, Mr. Gurshon ""Gus""",male
+0,"Strom, Miss. Telma Matilda",female
+0,"Backstrom, Mr. Karl Alfred",male
+1,"Albimona, Mr. Nassef Cassem",male
+1,"Carr, Miss. Helen ""Ellen""",female
+1,"Blank, Mr. Henry",male
+0,"Ali, Mr. Ahmed",male
+1,"Cameron, Miss. Clear Annie",female
+0,"Perkin, Mr. John Henry",male
+0,"Givard, Mr. Hans Kristensen",male
+0,"Kiernan, Mr. Philip",male
+1,"Newell, Miss. Madeleine",female
+1,"Honkanen, Miss. Eliina",female
+0,"Jacobsohn, Mr. Sidney Samuel",male
+1,"Bazzani, Miss. Albina",female
+0,"Harris, Mr. Walter",male
+1,"Sunderland, Mr. Victor Francis",male
+0,"Bracken, Mr. James H",male
+0,"Green, Mr. George Henry",male
+0,"Nenkoff, Mr. Christo",male
+1,"Hoyt, Mr. Frederick Maxfield",male
+0,"Berglund, Mr. Karl Ivar Sven",male
+1,"Mellors, Mr. William John",male
+0,"Lovell, Mr. John Hall (""Henry"")",male
+0,"Fahlstrom, Mr. Arne Jonas",male
+0,"Lefebre, Miss. Mathilde",female
+1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female
+0,"Larsson, Mr. Bengt Edvin",male
+0,"Sjostedt, Mr. Ernst Adolf",male
+1,"Asplund, Miss. Lillian Gertrud",female
+0,"Leyson, Mr. Robert William Norman",male
+0,"Harknett, Miss. Alice Phoebe",female
+0,"Hold, Mr. Stephen",male
+1,"Collyer, Miss. Marjorie ""Lottie""",female
+0,"Pengelly, Mr. Frederick William",male
+0,"Hunt, Mr. George Henry",male
+0,"Zabour, Miss. Thamine",female
+1,"Murphy, Miss. Katherine ""Kate""",female
+0,"Coleridge, Mr. Reginald Charles",male
+0,"Maenpaa, Mr. Matti Alexanteri",male
+0,"Attalah, Mr. Sleiman",male
+0,"Minahan, Dr. William Edward",male
+0,"Lindahl, Miss. Agda Thorilda Viktoria",female
+1,"Hamalainen, Mrs. William (Anna)",female
+1,"Beckwith, Mr. Richard Leonard",male
+0,"Carter, Rev. Ernest Courtenay",male
+0,"Reed, Mr. James George",male
+0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female
+0,"Stead, Mr. William Thomas",male
+0,"Lobb, Mr. William Arthur",male
+0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female
+1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female
+1,"Thorne, Mrs. Gertrude Maybelle",female
+1,"Cherry, Miss. Gladys",female
+1,"Ward, Miss. Anna",female
+1,"Parrish, Mrs. (Lutie Davis)",female
+0,"Smith, Mr. Thomas",male
+1,"Asplund, Master. Edvin Rojj Felix",male
+0,"Taussig, Mr. Emil",male
+0,"Harrison, Mr. William",male
+0,"Henry, Miss. Delia",female
+0,"Reeves, Mr. David",male
+0,"Panula, Mr. Ernesti Arvid",male
+1,"Persson, Mr. Ernst Ulrik",male
+1,"Graham, Mrs. William Thompson (Edith Junkins)",female
+1,"Bissette, Miss. Amelia",female
+0,"Cairns, Mr. Alexander",male
+1,"Tornquist, Mr. William Henry",male
+1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female
+0,"Natsch, Mr. Charles H",male
+1,"Healy, Miss. Hanora ""Nora""",female
+1,"Andrews, Miss. Kornelia Theodosia",female
+0,"Lindblom, Miss. Augusta Charlotta",female
+0,"Parkes, Mr. Francis ""Frank""",male
+0,"Rice, Master. Eric",male
+1,"Abbott, Mrs. Stanton (Rosa Hunt)",female
+0,"Duane, Mr. Frank",male
+0,"Olsson, Mr. Nils Johan Goransson",male
+0,"de Pelsmaeker, Mr. Alfons",male
+1,"Dorking, Mr. Edward Arthur",male
+0,"Smith, Mr. Richard William",male
+0,"Stankovic, Mr. Ivan",male
+1,"de Mulder, Mr. Theodore",male
+0,"Naidenoff, Mr. Penko",male
+1,"Hosono, Mr. Masabumi",male
+1,"Connolly, Miss. Kate",female
+1,"Barber, Miss. Ellen ""Nellie""",female
+1,"Bishop, Mrs. Dickinson H (Helen Walton)",female
+0,"Levy, Mr. Rene Jacques",male
+0,"Haas, Miss. Aloisia",female
+0,"Mineff, Mr. Ivan",male
+0,"Lewy, Mr. Ervin G",male
+0,"Hanna, Mr. Mansour",male
+0,"Allison, Miss. Helen Loraine",female
+1,"Saalfeld, Mr. Adolphe",male
+1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female
+1,"Kelly, Miss. Anna Katherine ""Annie Kate""",female
+1,"McCoy, Mr. Bernard",male
+0,"Johnson, Mr. William Cahoone Jr",male
+1,"Keane, Miss. Nora A",female
+0,"Williams, Mr. Howard Hugh ""Harry""",male
+1,"Allison, Master. Hudson Trevor",male
+1,"Fleming, Miss. Margaret",female
+1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female
+0,"Abelson, Mr. Samuel",male
+1,"Francatelli, Miss. Laura Mabel",female
+1,"Hays, Miss. Margaret Bechstein",female
+1,"Ryerson, Miss. Emily Borie",female
+0,"Lahtinen, Mrs. William (Anna Sylfven)",female
+0,"Hendekovic, Mr. Ignjac",male
+0,"Hart, Mr. Benjamin",male
+1,"Nilsson, Miss. Helmina Josefina",female
+1,"Kantor, Mrs. Sinai (Miriam Sternin)",female
+0,"Moraweck, Dr. Ernest",male
+1,"Wick, Miss. Mary Natalie",female
+1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female
+0,"Dennis, Mr. Samuel",male
+0,"Danoff, Mr. Yoto",male
+1,"Slayter, Miss. Hilda Mary",female
+1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female
+0,"Sage, Mr. George John Jr",male
+1,"Young, Miss. Marie Grice",female
+0,"Nysveen, Mr. Johan Hansen",male
+1,"Ball, Mrs. (Ada E Hall)",female
+1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female
+1,"Hippach, Miss. Jean Gertrude",female
+1,"McCoy, Miss. Agnes",female
+0,"Partner, Mr. Austen",male
+0,"Graham, Mr. George Edward",male
+0,"Vander Planke, Mr. Leo Edmondus",male
+1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female
+0,"Denkoff, Mr. Mitto",male
+0,"Pears, Mr. Thomas Clinton",male
+1,"Burns, Miss. Elizabeth Margaret",female
+1,"Dahl, Mr. Karl Edwart",male
+0,"Blackwell, Mr. Stephen Weart",male
+1,"Navratil, Master. Edmond Roger",male
+1,"Fortune, Miss. Alice Elizabeth",female
+0,"Collander, Mr. Erik Gustaf",male
+0,"Sedgwick, Mr. Charles Frederick Waddington",male
+0,"Fox, Mr. Stanley Hubert",male
+1,"Brown, Miss. Amelia ""Mildred""",female
+1,"Smith, Miss. Marion Elsie",female
+1,"Davison, Mrs. Thomas Henry (Mary E Finck)",female
+1,"Coutts, Master. William Loch ""William""",male
+0,"Dimic, Mr. Jovan",male
+0,"Odahl, Mr. Nils Martin",male
+0,"Williams-Lambert, Mr. Fletcher Fellows",male
+0,"Elias, Mr. Tannous",male
+0,"Arnold-Franchi, Mr. Josef",male
+0,"Yousif, Mr. Wazli",male
+0,"Vanden Steen, Mr. Leo Peter",male
+1,"Bowerman, Miss. Elsie Edith",female
+0,"Funk, Miss. Annie Clemmer",female
+1,"McGovern, Miss. Mary",female
+1,"Mockler, Miss. Helen Mary ""Ellie""",female
+0,"Skoog, Mr. Wilhelm",male
+0,"del Carlo, Mr. Sebastiano",male
+0,"Barbara, Mrs. (Catherine David)",female
+0,"Asim, Mr. Adola",male
+0,"O'Brien, Mr. Thomas",male
+0,"Adahl, Mr. Mauritz Nils Martin",male
+1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female
+1,"Moussa, Mrs. (Mantoura Boulos)",female
+1,"Jermyn, Miss. Annie",female
+1,"Aubart, Mme. Leontine Pauline",female
+1,"Harder, Mr. George Achilles",male
+0,"Wiklund, Mr. Jakob Alfred",male
+0,"Beavan, Mr. William Thomas",male
+0,"Ringhini, Mr. Sante",male
+0,"Palsson, Miss. Stina Viola",female
+1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female
+1,"Landergren, Miss. Aurora Adelia",female
+0,"Widener, Mr. Harry Elkins",male
+0,"Betros, Mr. Tannous",male
+0,"Gustafsson, Mr. Karl Gideon",male
+1,"Bidois, Miss. Rosalie",female
+1,"Nakid, Miss. Maria (""Mary"")",female
+0,"Tikkanen, Mr. Juho",male
+1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female
+0,"Plotcharsky, Mr. Vasil",male
+0,"Davies, Mr. Charles Henry",male
+0,"Goodwin, Master. Sidney Leonard",male
+1,"Buss, Miss. Kate",female
+0,"Sadlier, Mr. Matthew",male
+1,"Lehmann, Miss. Bertha",female
+1,"Carter, Mr. William Ernest",male
+1,"Jansson, Mr. Carl Olof",male
+0,"Gustafsson, Mr. Johan Birger",male
+1,"Newell, Miss. Marjorie",female
+1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female
+0,"Johansson, Mr. Erik",male
+0,"Olsson, Miss. Elina",female
+0,"McKane, Mr. Peter David",male
+0,"Pain, Dr. Alfred",male
+1,"Trout, Mrs. William H (Jessie L)",female
+1,"Niskanen, Mr. Juha",male
+0,"Adams, Mr. John",male
+0,"Jussila, Miss. Mari Aina",female
+0,"Hakkarainen, Mr. Pekka Pietari",male
+0,"Oreskovic, Miss. Marija",female
+0,"Gale, Mr. Shadrach",male
+0,"Widegren, Mr. Carl/Charles Peter",male
+1,"Richards, Master. William Rowe",male
+0,"Birkeland, Mr. Hans Martin Monsen",male
+0,"Lefebre, Miss. Ida",female
+0,"Sdycoff, Mr. Todor",male
+0,"Hart, Mr. Henry",male
+1,"Minahan, Miss. Daisy E",female
+0,"Cunningham, Mr. Alfred Fleming",male
+1,"Sundman, Mr. Johan Julian",male
+0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female
+1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female
+1,"Silven, Miss. Lyyli Karoliina",female
+0,"Matthews, Mr. William John",male
+0,"Van Impe, Miss. Catharina",female
+0,"Gheorgheff, Mr. Stanio",male
+0,"Charters, Mr. David",male
+0,"Zimmerman, Mr. Leo",male
+0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female
+0,"Rosblom, Mr. Viktor Richard",male
+0,"Wiseman, Mr. Phillippe",male
+1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female
+1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female
+0,"Flynn, Mr. James",male
+1,"Pickard, Mr. Berk (Berk Trembisky)",male
+1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male
+1,"Thorneycroft, Mrs. Percival (Florence Kate White)",female
+1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female
+0,"Kallio, Mr. Nikolai Erland",male
+0,"Silvey, Mr. William Baird",male
+1,"Carter, Miss. Lucile Polk",female
+0,"Ford, Miss. Doolina Margaret ""Daisy""",female
+1,"Richards, Mrs. Sidney (Emily Hocking)",female
+0,"Fortune, Mr. Mark",male
+0,"Kvillner, Mr. Johan Henrik Johannesson",male
+1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female
+0,"Hampe, Mr. Leon",male
+0,"Petterson, Mr. Johan Emil",male
+1,"Reynaldo, Ms. Encarnacion",female
+1,"Johannesen-Bratthammer, Mr. Bernt",male
+1,"Dodge, Master. Washington",male
+1,"Mellinger, Miss. Madeleine Violet",female
+1,"Seward, Mr. Frederic Kimber",male
+1,"Baclini, Miss. Marie Catherine",female
+1,"Peuchen, Major. Arthur Godfrey",male
+0,"West, Mr. Edwy Arthur",male
+0,"Hagland, Mr. Ingvald Olai Olsen",male
+0,"Foreman, Mr. Benjamin Laventall",male
+1,"Goldenberg, Mr. Samuel L",male
+0,"Peduzzi, Mr. Joseph",male
+1,"Jalsevac, Mr. Ivan",male
+0,"Millet, Mr. Francis Davis",male
+1,"Kenyon, Mrs. Frederick R (Marion)",female
+1,"Toomey, Miss. Ellen",female
+0,"O'Connor, Mr. Maurice",male
+1,"Anderson, Mr. Harry",male
+0,"Morley, Mr. William",male
+0,"Gee, Mr. Arthur H",male
+0,"Milling, Mr. Jacob Christian",male
+0,"Maisner, Mr. Simon",male
+0,"Goncalves, Mr. Manuel Estanslas",male
+0,"Campbell, Mr. William",male
+0,"Smart, Mr. John Montgomery",male
+0,"Scanlan, Mr. James",male
+1,"Baclini, Miss. Helene Barbara",female
+0,"Keefe, Mr. Arthur",male
+0,"Cacic, Mr. Luka",male
+1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female
+1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female
+0,"Strandberg, Miss. Ida Sofia",female
+0,"Clifford, Mr. George Quincy",male
+0,"Renouf, Mr. Peter Henry",male
+0,"Braund, Mr. Lewis Richard",male
+0,"Karlsson, Mr. Nils August",male
+1,"Hirvonen, Miss. Hildur E",female
+0,"Goodwin, Master. Harold Victor",male
+0,"Frost, Mr. Anthony Wood ""Archie""",male
+0,"Rouse, Mr. Richard Henry",male
+1,"Turkula, Mrs. (Hedwig)",female
+1,"Bishop, Mr. Dickinson H",male
+0,"Lefebre, Miss. Jeannie",female
+1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female
+0,"Kent, Mr. Edward Austin",male
+0,"Somerton, Mr. Francis William",male
+1,"Coutts, Master. Eden Leslie ""Neville""",male
+0,"Hagland, Mr. Konrad Mathias Reiersen",male
+0,"Windelov, Mr. Einar",male
+0,"Molson, Mr. Harry Markland",male
+0,"Artagaveytia, Mr. Ramon",male
+0,"Stanley, Mr. Edward Roland",male
+0,"Yousseff, Mr. Gerious",male
+1,"Eustis, Miss. Elizabeth Mussey",female
+0,"Shellard, Mr. Frederick William",male
+0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female
+0,"Svensson, Mr. Olof",male
+0,"Calic, Mr. Petar",male
+0,"Canavan, Miss. Mary",female
+0,"O'Sullivan, Miss. Bridget Mary",female
+0,"Laitinen, Miss. Kristina Sofia",female
+1,"Maioni, Miss. Roberta",female
+0,"Penasco y Castellana, Mr. Victor de Satode",male
+1,"Quick, Mrs. Frederick Charles (Jane Richards)",female
+1,"Bradley, Mr. George (""George Arthur Brayton"")",male
+0,"Olsen, Mr. Henry Margido",male
+1,"Lang, Mr. Fang",male
+1,"Daly, Mr. Eugene Patrick",male
+0,"Webber, Mr. James",male
+1,"McGough, Mr. James Robert",male
+1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female
+0,"Coleff, Mr. Satio",male
+0,"Walker, Mr. William Anderson",male
+1,"Lemore, Mrs. (Amelia Milley)",female
+0,"Ryan, Mr. Patrick",male
+1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female
+0,"Pavlovic, Mr. Stefo",male
+1,"Perreault, Miss. Anne",female
+0,"Vovk, Mr. Janko",male
+0,"Lahoud, Mr. Sarkis",male
+1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female
+0,"Kassem, Mr. Fared",male
+0,"Farrell, Mr. James",male
+1,"Ridsdale, Miss. Lucy",female
+0,"Farthing, Mr. John",male
+0,"Salonen, Mr. Johan Werner",male
+0,"Hocking, Mr. Richard George",male
+1,"Quick, Miss. Phyllis May",female
+0,"Toufik, Mr. Nakli",male
+0,"Elias, Mr. Joseph Jr",male
+1,"Peter, Mrs. Catherine (Catherine Rizk)",female
+0,"Cacic, Miss. Marija",female
+1,"Hart, Miss. Eva Miriam",female
+0,"Butt, Major. Archibald Willingham",male
+1,"LeRoy, Miss. Bertha",female
+0,"Risien, Mr. Samuel Beard",male
+1,"Frolicher, Miss. Hedwig Margaritha",female
+1,"Crosby, Miss. Harriet R",female
+0,"Andersson, Miss. Ingeborg Constanzia",female
+0,"Andersson, Miss. Sigrid Elisabeth",female
+1,"Beane, Mr. Edward",male
+0,"Douglas, Mr. Walter Donald",male
+0,"Nicholson, Mr. Arthur Ernest",male
+1,"Beane, Mrs. Edward (Ethel Clarke)",female
+1,"Padro y Manent, Mr. Julian",male
+0,"Goldsmith, Mr. Frank John",male
+1,"Davies, Master. John Morgan Jr",male
+1,"Thayer, Mr. John Borland Jr",male
+0,"Sharp, Mr. Percival James R",male
+0,"O'Brien, Mr. Timothy",male
+1,"Leeni, Mr. Fahim (""Philip Zenni"")",male
+1,"Ohman, Miss. Velin",female
+0,"Wright, Mr. George",male
+1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female
+0,"Robbins, Mr. Victor",male
+1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female
+1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female
+0,"Morrow, Mr. Thomas Rowan",male
+0,"Sivic, Mr. Husein",male
+0,"Norman, Mr. Robert Douglas",male
+0,"Simmons, Mr. John",male
+0,"Meanwell, Miss. (Marion Ogden)",female
+0,"Davies, Mr. Alfred J",male
+0,"Stoytcheff, Mr. Ilia",male
+0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female
+0,"Doharr, Mr. Tannous",male
+1,"Jonsson, Mr. Carl",male
+1,"Harris, Mr. George",male
+1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female
+1,"Flynn, Mr. John Irwin (""Irving"")",male
+1,"Kelly, Miss. Mary",female
+0,"Rush, Mr. Alfred George John",male
+0,"Patchett, Mr. George",male
+1,"Garside, Miss. Ethel",female
+1,"Silvey, Mrs. William Baird (Alice Munger)",female
+0,"Caram, Mrs. Joseph (Maria Elias)",female
+1,"Jussila, Mr. Eiriik",male
+1,"Christy, Miss. Julie Rachel",female
+1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female
+0,"Downton, Mr. William James",male
+0,"Ross, Mr. John Hugo",male
+0,"Paulner, Mr. Uscher",male
+1,"Taussig, Miss. Ruth",female
+0,"Jarvis, Mr. John Denzil",male
+1,"Frolicher-Stehli, Mr. Maxmillian",male
+0,"Gilinski, Mr. Eliezer",male
+0,"Murdlin, Mr. Joseph",male
+0,"Rintamaki, Mr. Matti",male
+1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female
+0,"Elsbury, Mr. William James",male
+0,"Bourke, Miss. Mary",female
+0,"Chapman, Mr. John Henry",male
+0,"Van Impe, Mr. Jean Baptiste",male
+1,"Leitch, Miss. Jessie Wills",female
+0,"Johnson, Mr. Alfred",male
+0,"Boulos, Mr. Hanna",male
+1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male
+1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female
+0,"Slabenoff, Mr. Petco",male
+0,"Harrington, Mr. Charles H",male
+0,"Torber, Mr. Ernst William",male
+1,"Homer, Mr. Harry (""Mr E Haven"")",male
+0,"Lindell, Mr. Edvard Bengtsson",male
+0,"Karaic, Mr. Milan",male
+1,"Daniel, Mr. Robert Williams",male
+1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female
+1,"Shutes, Miss. Elizabeth W",female
+0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female
+0,"Jardin, Mr. Jose Neto",male
+1,"Murphy, Miss. Margaret Jane",female
+0,"Horgan, Mr. John",male
+0,"Brocklebank, Mr. William Alfred",male
+1,"Herman, Miss. Alice",female
+0,"Danbom, Mr. Ernst Gilbert",male
+0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female
+1,"Becker, Miss. Marion Louise",female
+0,"Gavey, Mr. Lawrence",male
+0,"Yasbeck, Mr. Antoni",male
+1,"Kimball, Mr. Edwin Nelson Jr",male
+1,"Nakid, Mr. Sahid",male
+0,"Hansen, Mr. Henry Damsgaard",male
+0,"Bowen, Mr. David John ""Dai""",male
+0,"Sutton, Mr. Frederick",male
+0,"Kirkland, Rev. Charles Leonard",male
+1,"Longley, Miss. Gretchen Fiske",female
+0,"Bostandyeff, Mr. Guentcho",male
+0,"O'Connell, Mr. Patrick D",male
+1,"Barkworth, Mr. Algernon Henry Wilson",male
+0,"Lundahl, Mr. Johan Svensson",male
+1,"Stahelin-Maeglin, Dr. Max",male
+0,"Parr, Mr. William Henry Marsh",male
+0,"Skoog, Miss. Mabel",female
+1,"Davis, Miss. Mary",female
+0,"Leinonen, Mr. Antti Gustaf",male
+0,"Collyer, Mr. Harvey",male
+0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female
+0,"Thorneycroft, Mr. Percival",male
+0,"Jensen, Mr. Hans Peder",male
+1,"Sagesser, Mlle. Emma",female
+0,"Skoog, Miss. Margit Elizabeth",female
+1,"Foo, Mr. Choong",male
+1,"Baclini, Miss. Eugenie",female
+1,"Harper, Mr. Henry Sleeper",male
+0,"Cor, Mr. Liudevit",male
+1,"Simonius-Blumer, Col. Oberst Alfons",male
+0,"Willey, Mr. Edward",male
+1,"Stanley, Miss. Amy Zillah Elsie",female
+0,"Mitkoff, Mr. Mito",male
+1,"Doling, Miss. Elsie",female
+0,"Kalvik, Mr. Johannes Halvorsen",male
+1,"O'Leary, Miss. Hanora ""Norah""",female
+0,"Hegarty, Miss. Hanora ""Nora""",female
+0,"Hickman, Mr. Leonard Mark",male
+0,"Radeff, Mr. Alexander",male
+0,"Bourke, Mrs. John (Catherine)",female
+0,"Eitemiller, Mr. George Floyd",male
+0,"Newell, Mr. Arthur Webster",male
+1,"Frauenthal, Dr. Henry William",male
+0,"Badt, Mr. Mohamed",male
+0,"Colley, Mr. Edward Pomeroy",male
+0,"Coleff, Mr. Peju",male
+1,"Lindqvist, Mr. Eino William",male
+0,"Hickman, Mr. Lewis",male
+0,"Butler, Mr. Reginald Fenton",male
+0,"Rommetvedt, Mr. Knud Paust",male
+0,"Cook, Mr. Jacob",male
+1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female
+1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female
+0,"Davidson, Mr. Thornton",male
+0,"Mitchell, Mr. Henry Michael",male
+1,"Wilhelms, Mr. Charles",male
+0,"Watson, Mr. Ennis Hastings",male
+0,"Edvardsson, Mr. Gustaf Hjalmar",male
+0,"Sawyer, Mr. Frederick Charles",male
+1,"Turja, Miss. Anna Sofia",female
+0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female
+1,"Cardeza, Mr. Thomas Drake Martinez",male
+0,"Peters, Miss. Katie",female
+1,"Hassab, Mr. Hammad",male
+0,"Olsvigen, Mr. Thor Anderson",male
+0,"Goodwin, Mr. Charles Edward",male
+0,"Brown, Mr. Thomas William Solomon",male
+0,"Laroche, Mr. Joseph Philippe Lemercier",male
+0,"Panula, Mr. Jaako Arnold",male
+0,"Dakic, Mr. Branko",male
+0,"Fischer, Mr. Eberhard Thelander",male
+1,"Madill, Miss. Georgette Alexandra",female
+1,"Dick, Mr. Albert Adrian",male
+1,"Karun, Miss. Manca",female
+1,"Lam, Mr. Ali",male
+0,"Saad, Mr. Khalil",male
+0,"Weir, Col. John",male
+0,"Chapman, Mr. Charles Henry",male
+0,"Kelly, Mr. James",male
+1,"Mullens, Miss. Katherine ""Katie""",female
+0,"Thayer, Mr. John Borland",male
+0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male
+1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female
+1,"Silverthorne, Mr. Spencer Victor",male
+0,"Barbara, Miss. Saiide",female
+0,"Gallagher, Mr. Martin",male
+0,"Hansen, Mr. Henrik Juul",male
+0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male
+1,"Kelly, Mrs. Florence ""Fannie""",female
+1,"Calderhead, Mr. Edward Pennington",male
+1,"Cleaver, Miss. Alice",female
+1,"Moubarek, Master. Halim Gonios (""William George"")",male
+1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female
+0,"Klaber, Mr. Herman",male
+1,"Taylor, Mr. Elmer Zebley",male
+0,"Larsson, Mr. August Viktor",male
+0,"Greenberg, Mr. Samuel",male
+0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male
+1,"Endres, Miss. Caroline Louise",female
+1,"Troutt, Miss. Edwina Celia ""Winnie""",female
+0,"McEvoy, Mr. Michael",male
+0,"Johnson, Mr. Malkolm Joackim",male
+1,"Harper, Miss. Annie Jessie ""Nina""",female
+0,"Jensen, Mr. Svend Lauritz",male
+0,"Gillespie, Mr. William Henry",male
+0,"Hodges, Mr. Henry Price",male
+1,"Chambers, Mr. Norman Campbell",male
+0,"Oreskovic, Mr. Luka",male
+1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female
+1,"Mannion, Miss. Margareth",female
+0,"Bryhl, Mr. Kurt Arnold Gottfrid",male
+0,"Ilmakangas, Miss. Pieta Sofia",female
+1,"Allen, Miss. Elisabeth Walton",female
+0,"Hassan, Mr. Houssein G N",male
+0,"Knight, Mr. Robert J",male
+0,"Berriman, Mr. William John",male
+0,"Troupiansky, Mr. Moses Aaron",male
+0,"Williams, Mr. Leslie",male
+0,"Ford, Mrs. Edward (Margaret Ann Watson)",female
+1,"Lesurer, Mr. Gustave J",male
+0,"Ivanoff, Mr. Kanio",male
+0,"Nankoff, Mr. Minko",male
+1,"Hawksford, Mr. Walter James",male
+0,"Cavendish, Mr. Tyrell William",male
+1,"Ryerson, Miss. Susan Parker ""Suzette""",female
+0,"McNamee, Mr. Neal",male
+1,"Stranden, Mr. Juho",male
+0,"Crosby, Capt. Edward Gifford",male
+0,"Abbott, Mr. Rossmore Edward",male
+1,"Sinkkonen, Miss. Anna",female
+0,"Marvin, Mr. Daniel Warner",male
+0,"Connaghton, Mr. Michael",male
+1,"Wells, Miss. Joan",female
+1,"Moor, Master. Meier",male
+0,"Vande Velde, Mr. Johannes Joseph",male
+0,"Jonkoff, Mr. Lalio",male
+1,"Herman, Mrs. Samuel (Jane Laver)",female
+1,"Hamalainen, Master. Viljo",male
+0,"Carlsson, Mr. August Sigfrid",male
+0,"Bailey, Mr. Percy Andrew",male
+0,"Theobald, Mr. Thomas Leonard",male
+1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female
+0,"Garfirth, Mr. John",male
+0,"Nirva, Mr. Iisakki Antino Aijo",male
+1,"Barah, Mr. Hanna Assi",male
+1,"Carter, Mrs. William Ernest (Lucile Polk)",female
+0,"Eklund, Mr. Hans Linus",male
+1,"Hogeboom, Mrs. John C (Anna Andrews)",female
+0,"Brewe, Dr. Arthur Jackson",male
+0,"Mangan, Miss. Mary",female
+0,"Moran, Mr. Daniel J",male
+0,"Gronnestad, Mr. Daniel Danielsen",male
+0,"Lievens, Mr. Rene Aime",male
+0,"Jensen, Mr. Niels Peder",male
+0,"Mack, Mrs. (Mary)",female
+0,"Elias, Mr. Dibo",male
+1,"Hocking, Mrs. Elizabeth (Eliza Needs)",female
+0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male
+0,"Tobin, Mr. Roger",male
+1,"Emanuel, Miss. Virginia Ethel",female
+0,"Kilgannon, Mr. Thomas J",male
+1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female
+1,"Ayoub, Miss. Banoura",female
+1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female
+0,"Long, Mr. Milton Clyde",male
+0,"Johnston, Mr. Andrew G",male
+0,"Ali, Mr. William",male
+0,"Harmer, Mr. Abraham (David Lishin)",male
+1,"Sjoblom, Miss. Anna Sofia",female
+0,"Rice, Master. George Hugh",male
+1,"Dean, Master. Bertram Vere",male
+0,"Guggenheim, Mr. Benjamin",male
+0,"Keane, Mr. Andrew ""Andy""",male
+0,"Gaskell, Mr. Alfred",male
+0,"Sage, Miss. Stella Anna",female
+0,"Hoyt, Mr. William Fisher",male
+0,"Dantcheff, Mr. Ristiu",male
+0,"Otter, Mr. Richard",male
+1,"Leader, Dr. Alice (Farnham)",female
+1,"Osman, Mrs. Mara",female
+0,"Ibrahim Shawah, Mr. Yousseff",male
+0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female
+0,"Ponesell, Mr. Martin",male
+1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female
+1,"Carter, Master. William Thornton II",male
+1,"Thomas, Master. Assad Alexander",male
+1,"Hedman, Mr. Oskar Arvid",male
+0,"Johansson, Mr. Karl Johan",male
+0,"Andrews, Mr. Thomas Jr",male
+0,"Pettersson, Miss. Ellen Natalia",female
+0,"Meyer, Mr. August",male
+1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female
+0,"Alexander, Mr. William",male
+0,"Lester, Mr. James",male
+0,"Slemen, Mr. Richard James",male
+0,"Andersson, Miss. Ebba Iris Alfrida",female
+0,"Tomlin, Mr. Ernest Portage",male
+0,"Fry, Mr. Richard",male
+0,"Heininen, Miss. Wendla Maria",female
+0,"Mallet, Mr. Albert",male
+0,"Holm, Mr. John Fredrik Alexander",male
+0,"Skoog, Master. Karl Thorsten",male
+1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female
+1,"Lulic, Mr. Nikola",male
+0,"Reuchlin, Jonkheer. John George",male
+1,"Moor, Mrs. (Beila)",female
+0,"Panula, Master. Urho Abraham",male
+0,"Flynn, Mr. John",male
+0,"Lam, Mr. Len",male
+1,"Mallet, Master. Andre",male
+1,"McCormack, Mr. Thomas Joseph",male
+1,"Stone, Mrs. George Nelson (Martha Evelyn)",female
+1,"Yasbeck, Mrs. Antoni (Selini Alexander)",female
+1,"Richards, Master. George Sibley",male
+0,"Saad, Mr. Amin",male
+0,"Augustsson, Mr. Albert",male
+0,"Allum, Mr. Owen George",male
+1,"Compton, Miss. Sara Rebecca",female
+0,"Pasic, Mr. Jakob",male
+0,"Sirota, Mr. Maurice",male
+1,"Chip, Mr. Chang",male
+1,"Marechal, Mr. Pierre",male
+0,"Alhomaki, Mr. Ilmari Rudolf",male
+0,"Mudd, Mr. Thomas Charles",male
+1,"Serepeca, Miss. Augusta",female
+0,"Lemberopolous, Mr. Peter L",male
+0,"Culumovic, Mr. Jeso",male
+0,"Abbing, Mr. Anthony",male
+0,"Sage, Mr. Douglas Bullen",male
+0,"Markoff, Mr. Marin",male
+0,"Harper, Rev. John",male
+1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female
+0,"Andersson, Master. Sigvard Harald Elias",male
+0,"Svensson, Mr. Johan",male
+0,"Boulos, Miss. Nourelain",female
+1,"Lines, Miss. Mary Conover",female
+0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female
+1,"Aks, Mrs. Sam (Leah Rosen)",female
+1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female
+1,"Daly, Mr. Peter Denis ",male
+1,"Baclini, Mrs. Solomon (Latifa Qurban)",female
+0,"Razi, Mr. Raihed",male
+0,"Hansen, Mr. Claus Peter",male
+0,"Giles, Mr. Frederick Edward",male
+1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female
+0,"Sage, Miss. Dorothy Edith ""Dolly""",female
+0,"Gill, Mr. John William",male
+1,"Bystrom, Mrs. (Karolina)",female
+1,"Duran y More, Miss. Asuncion",female
+0,"Roebling, Mr. Washington Augustus II",male
+0,"van Melkebeke, Mr. Philemon",male
+1,"Johnson, Master. Harold Theodor",male
+0,"Balkic, Mr. Cerin",male
+1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female
+0,"Carlsson, Mr. Frans Olof",male
+0,"Vander Cruyssen, Mr. Victor",male
+1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female
+1,"Najib, Miss. Adele Kiamie ""Jane""",female
+0,"Gustafsson, Mr. Alfred Ossian",male
+0,"Petroff, Mr. Nedelio",male
+0,"Laleff, Mr. Kristo",male
+1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female
+1,"Shelley, Mrs. William (Imanita Parrish Hall)",female
+0,"Markun, Mr. Johann",male
+0,"Dahlberg, Miss. Gerda Ulrika",female
+0,"Banfield, Mr. Frederick James",male
+0,"Sutehall, Mr. Henry Jr",male
+0,"Rice, Mrs. William (Margaret Norton)",female
+0,"Montvila, Rev. Juozas",male
+1,"Graham, Miss. Margaret Edith",female
+0,"Johnston, Miss. Catherine Helen ""Carrie""",female
+1,"Behr, Mr. Karl Howell",male
+0,"Dooley, Mr. Patrick",male
